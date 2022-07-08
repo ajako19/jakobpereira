@@ -19,7 +19,7 @@ export default function Projects () {
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                 </div>
-                <a href="https://github.com/Scummings1319/ReactProject" target="_blank" rel="noreferrer">
+                <a href="https://github.com/ajako19/ReactProject" target="_blank" rel="noreferrer">
                 <button className="projectsButton">
                     View Github
                 </button>

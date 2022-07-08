@@ -62,8 +62,8 @@ export default function Contact () {
                               setMessageBox(e.target.value)
                             }} value={messageBox} name="message"/>
                             <button className="submitButton">Submit</button>
-                            {done && "Thank you!"}
                         </form>
+                            {done && <p className="thankYouContact">Thank you!</p>}
                         </div>
                     </div>
                 </div>
